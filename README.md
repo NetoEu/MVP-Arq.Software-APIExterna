@@ -33,7 +33,3 @@ Embora a API não ofereça suporte nativo para múltiplas consultas em uma únic
 - Emissão de notas fiscais com endereços válidos.
 
 ---
-
-## 📄 Licença
-
-**MIT**
